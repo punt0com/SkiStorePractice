@@ -9,3 +9,15 @@ C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug
 C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\refint\Core.dll
 C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\Core.pdb
 C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Code\Skinet\SkiStorePractice\Core\bin\Debug\net9.0\Core.deps.json
+C:\Code\Skinet\SkiStorePractice\Core\bin\Debug\net9.0\Core.dll
+C:\Code\Skinet\SkiStorePractice\Core\bin\Debug\net9.0\Core.pdb
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.sourcelink.json
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.dll
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\refint\Core.dll
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\Core.pdb
+C:\Code\Skinet\SkiStorePractice\Core\obj\Debug\net9.0\ref\Core.dll

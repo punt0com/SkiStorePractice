@@ -5,15 +5,15 @@
 namespace Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class FixedTypoINproductsTable : Migration
+    public partial class arreglarTypo : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.RenameColumn(
-                name: "PivctureUrl",
-                table: "Products",
-                newName: "PictureUrl");
+                   name: "PivctureUrl",
+                   table: "Products",
+                   newName: "PictureUrl");
         }
 
         /// <inheritdoc />

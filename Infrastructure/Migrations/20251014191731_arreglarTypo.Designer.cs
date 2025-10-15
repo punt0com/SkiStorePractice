@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Infrastructure.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20251014012840_NewNameForProdutcsIntoProducts")]
-    partial class NewNameForProdutcsIntoProducts
+    [Migration("20251014191731_arreglarTypo")]
+    partial class arreglarTypo
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
