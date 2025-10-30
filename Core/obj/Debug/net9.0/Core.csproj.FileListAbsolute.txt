@@ -9,3 +9,4 @@ C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug
 C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\refint\Core.dll
 C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\Core.pdb
 C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\Andre\OneDrive\Code\proyectos\e-commerce-practice\skinet\Core\obj\Debug\net9.0\Core.sourcelink.json
